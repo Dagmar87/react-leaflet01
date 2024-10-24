@@ -17,13 +17,13 @@ Esse projeto de estudo consiste na renderização de um mapa simples utilizando 
 
 Esse projeto tem duas opções para rodar:
 
-A.Para rodar o projeto html, deve seguir os seguintes passos:
+A) Para rodar o projeto html, deve seguir os seguintes passos:
 
 1. git clone https://github.com/Dagmar87/react-leaflet01.git
 2. cd react-leaflet01/html
 3. .\index.html
 
-B.Para rodar o projeto react-leaflet, deve seguir os seguintes passos:
+B) Para rodar o projeto react-leaflet, deve seguir os seguintes passos:
 
 1. git clone https://github.com/Dagmar87/react-leaflet01.git
 2. cd react-leaflet01/react-leaflet
